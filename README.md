@@ -3,6 +3,7 @@ A Python code that uses a pretrained TensorFlow Hub model to apply neural style 
 
 ### Pretrained model
 We load the model from the following link: 
+https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2
 
 ### Demonstration
 
